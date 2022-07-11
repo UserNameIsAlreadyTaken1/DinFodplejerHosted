@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.fd4a6fdd.css",
-    "main.js": "./static/js/main.cd7d188f.js",
+    "main.css": "./static/css/main.d535a7c7.css",
+    "main.js": "./static/js/main.fe3f8d89.js",
     "static/js/787.c52c1001.chunk.js": "./static/js/787.c52c1001.chunk.js",
     "static/media/SundhedshusetGrindsted.png": "./static/media/SundhedshusetGrindsted.b2e1d02ffd9a98ffd405.png",
     "static/media/SundhedshusetGrindsted.jpg": "./static/media/SundhedshusetGrindsted.c7ca91d66895ed638b28.jpg",
@@ -10,12 +10,12 @@
     "static/media/feet.png": "./static/media/feet.e9ee761de1ad6415abda.png",
     "static/media/happyfeet.jpg": "./static/media/happyfeet.74f5b0fb33b38b4b38d4.jpg",
     "index.html": "./index.html",
-    "main.fd4a6fdd.css.map": "./static/css/main.fd4a6fdd.css.map",
-    "main.cd7d188f.js.map": "./static/js/main.cd7d188f.js.map",
+    "main.d535a7c7.css.map": "./static/css/main.d535a7c7.css.map",
+    "main.fe3f8d89.js.map": "./static/js/main.fe3f8d89.js.map",
     "787.c52c1001.chunk.js.map": "./static/js/787.c52c1001.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd4a6fdd.css",
-    "static/js/main.cd7d188f.js"
+    "static/css/main.d535a7c7.css",
+    "static/js/main.fe3f8d89.js"
   ]
 }
