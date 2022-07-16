@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.d535a7c7.css",
-    "main.js": "./static/js/main.fe3f8d89.js",
+    "main.css": "./static/css/main.48002b7c.css",
+    "main.js": "./static/js/main.65ce4da4.js",
     "static/js/787.c52c1001.chunk.js": "./static/js/787.c52c1001.chunk.js",
     "static/media/SundhedshusetGrindsted.png": "./static/media/SundhedshusetGrindsted.b2e1d02ffd9a98ffd405.png",
     "static/media/SundhedshusetGrindsted.jpg": "./static/media/SundhedshusetGrindsted.c7ca91d66895ed638b28.jpg",
     "static/media/Bette.png": "./static/media/Bette.c9d0732cade1011445c8.png",
     "static/media/Banner.jpg": "./static/media/Banner.446321fb6aa2621bc4ff.jpg",
     "static/media/feet.png": "./static/media/feet.e9ee761de1ad6415abda.png",
+    "static/media/SundhedshusetGrindstedGavekort.jpg": "./static/media/SundhedshusetGrindstedGavekort.b15d68129ca9dca7edfb.jpg",
     "static/media/happyfeet.jpg": "./static/media/happyfeet.74f5b0fb33b38b4b38d4.jpg",
     "index.html": "./index.html",
-    "main.d535a7c7.css.map": "./static/css/main.d535a7c7.css.map",
-    "main.fe3f8d89.js.map": "./static/js/main.fe3f8d89.js.map",
+    "main.48002b7c.css.map": "./static/css/main.48002b7c.css.map",
+    "main.65ce4da4.js.map": "./static/js/main.65ce4da4.js.map",
     "787.c52c1001.chunk.js.map": "./static/js/787.c52c1001.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d535a7c7.css",
-    "static/js/main.fe3f8d89.js"
+    "static/css/main.48002b7c.css",
+    "static/js/main.65ce4da4.js"
   ]
 }
